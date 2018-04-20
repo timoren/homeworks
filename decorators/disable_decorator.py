@@ -10,6 +10,6 @@ def cancelled(func):
     return wrapped
 
 
-# @cancelled
-# def echo_value(arg):
-#     print(arg)
+@cancelled
+def echo_value(arg):
+    print(arg)

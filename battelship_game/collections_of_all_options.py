@@ -1,7 +1,5 @@
 from enum import Enum
 
-__author__ = 'gzhukova'
-
 
 class Players(Enum):
     human = 0
@@ -22,4 +20,4 @@ class ShotResult(Enum):
 
 
 if __name__ == "__main__":
-    print("Вы запустили этот модуль напрямую")
+    print("you run the models locally")

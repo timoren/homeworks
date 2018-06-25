@@ -40,5 +40,5 @@ class Human(Player):
                             if self.validation_position_direction((position_direction, count_deck))
 
 
-#test of gerrit use
+#test of gerrit 2
 

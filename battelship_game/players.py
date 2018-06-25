@@ -39,3 +39,6 @@ class Human(Player):
                             position_direction = input('\n  enter position for {} deck ship example vector (n, s, w, e) (1a, 4f ...)'.format(count_deck))
                             if self.validation_position_direction((position_direction, count_deck))
 
+
+#test of gerrit use
+
